@@ -8,8 +8,8 @@ This is a simple command line utility that was written to be a cron job on a Jen
 
  It completely "cleans" (a.k.a. deletes) the following locations on your Mac so be careful!
 
-- ** ~/Library/Developer/Xcode/Archives
-- ** ~/Library/Developer/Xcode/DerivedData
+- `~/Library/Developer/Xcode/Archives`
+- `~/Library/Developer/Xcode/DerivedData`
 
 ### Installation & Usage
 
